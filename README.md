@@ -32,4 +32,7 @@ Installing Arch model could be done by.
 Installing keras could be done by.
 
     pip install keras
-        
+    
+Installing tensor flow could be done by.
+
+    pip install --upgrade tensorflow
