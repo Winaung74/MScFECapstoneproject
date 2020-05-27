@@ -4,9 +4,11 @@ This repository is created as part of capstone project submission for WQU May 18
 
 It contains python sample code, that demonstrates swing trading using a combination of volatility analysis with GARCH model for S&P 500 or other target stock and reinforcement machine learning
                                                             
-      Machine Learning Codes -  This module has one subfolder name Stock Data, which has historical stock prices in excel format.
+      Machine Learning Codes -  This module has one subfolder name Stock Data, which has historical stock prices 
+      in excel format.
       
-      Garch Model  - This module has two files one with 365 days S&P 500 and 30 days S&P 500 summary statistical and volatility data with output diagrams. 
+      Garch Model  - This module has two files one with 365 days S&P 500 and 30 days S&P 500 summary statistical
+      and volatility data with output diagrams. 
       
 The project has been developed in Mac OS in Python 3.6 environment
 
