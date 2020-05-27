@@ -14,13 +14,22 @@ It contains python sample code, that demonstrates swing trading using a combinat
 The project has been developed in Mac OS in Python 3.6 environment
 
 Before we install anything, it’s a good idea to upgrade the pip installation environment first. It could be done by entering the following codes in terminal:
+
     pip install --upgrade pip
-Installing Yahoo Finance could be done by
+    
+Installing Yahoo Finance could be done by.
+
     pip install yfinance
-Installing data reader could be done by 
+    
+Installing data reader could be done by.
+
     pip install pandas_datareader
-Installing Arch model could be done by 
+    
+Installing Arch model could be done by.
+
     pip install arch
-Installing keras could be done by 
+    
+Installing keras could be done by.
+
    pip install keras
         
